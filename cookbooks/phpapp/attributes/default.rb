@@ -1,1 +1,1 @@
-default['phpapp']['hosts'] = ["dev", "drupal"];
+default['phpapp']['hosts'] = ["dev"];
